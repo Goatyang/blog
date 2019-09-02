@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: Goatyang
 subtitle: "技术·生活"
 description: "杨洋的个人博客"
-keywords: Goatyang, Lanhonghao, 蓝宏浩, Honghao Lan
+keywords: Goatyang, yangyang,杨洋, yang 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,7 +15,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Lanhonghao
+author: Goatyang
 organization: 
 organization_url: 
 github_username: Goatyang
@@ -95,14 +95,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: lanhonghao
+    owner: Goatyang
     repo: blog-comments
     oauth:
         client_id: 63ab4cc7bda84e58e49f
         client_secret: df47630229c0a11b163cee983d502a315da54636
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Lanhonghao
+    owner:  Goatyang
     repo: blog_comment_gitalk
     clientID: 63ab4cc7bda84e58e49f
     clientSecret: df47630229c0a11b163cee983d502a315da54636
