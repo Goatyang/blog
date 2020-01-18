@@ -1,6 +1,6 @@
-# 幽水蓼蓝
+﻿# 风飏
 
-我的个人博客：<https://blog.lanhonghao.cn>，欢迎 Star 和 Fork。
+我的个人博客：<https://goatyangyang.blogspot.com/>，欢迎 Star 和 Fork。
 
 ## 概览
 
